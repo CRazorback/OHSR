@@ -4,7 +4,6 @@ By Junyan Lyu, Pengxiao Xu, Fatima Nasrallah, Xiaoying Tang.
 
 This repository contains an official implementation of OHSR for the MICCAI paper ["Learning Ontology-Based Hierarchical Structural Relationship for Whole Brain Segmentation"](https://link.springer.com/chapter/10.1007/978-3-031-43901-8_37).
 
-The code will release soon.
 
 ## Citation
 If you find this repository useful, please consider citing OHSR paper:
